@@ -1,0 +1,4 @@
+.directory
+*.log
+tmp
+cache
